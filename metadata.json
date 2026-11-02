@@ -1,0 +1,6 @@
+{
+  "name": "Class 6 NCTB Books & Chapters API",
+  "description": "NCTB Class 6 all textbooks and chapters REST API service with interactive API explorer, live endpoints, and Vercel & GitHub deployment readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
